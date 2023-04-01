@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: black;
+    height: 100px;
+
+}
+
+div {
+    padding-top: 30px;
+
+
+}
+
+
+.start {
+    color: white;
+    font-size: x-large;
+    margin-left: 150px;
+
+}
+
+.about {
+    color: white;
+    font-size: larger;
+    margin-left: 700px;
+}
+
+.services {
+    color: white;
+    font-size: larger;
+    margin-left: 1%;
+}
+
+.contacts {
+    color: white;
+    font-size: larger;
+    margin-left: 1%;
+}
+
+.basliq {
+    background-color: #1572FD;
+    height: 50vh;
+    text-align: center;
+    padding: 15vh;
+}
+
+
+
+.welcome {
+    font-size: 6vh;
+    color: white;
+}
+
+h5 {
+    color: white;
+    font-size: larger;
+    padding: 10px;
+}
+
+button {
+    font-size: larger;
+    padding: 13px;
+    border-radius: 10px;
+}
+
+section {
+    margin-top: 70vh;
+    font-size: x-large;
+    padding-left: 320px;
+}
+
+span {
+    margin-top: 2vh;
+    font-size: large;
+}
+
+ul li {
+    font-size: medium;
+    margin-left: 30px;
+}
+
+.section2 {
+    margin-top: 30vh;
+
+}
+
+.section3 {
+    margin-top: 30vh;
+
+}
+
+.div1 {
+    width: 100%;
+    height: 25vh;
+    background-color: rgb(253, 253, 253);
+}
+
+
+footer {
+    background-color: black;
+    height: 20vh;
+    width: 100%;
+}
+
+
+.footer1 {
+color: white;
+text-align: center;
+padding: 55px;
+
+
+}
